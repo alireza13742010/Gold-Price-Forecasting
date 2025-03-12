@@ -3,7 +3,7 @@ Forecasting gold prices can be a complex task, given the influence of numerous f
 This repository demonstrates a prediction over 1 hour ahead for the gold price. The proposed application has two phases of checking the performance of the model and then runing it for the real time. The proposed program is composed of an AI model for predicting the close gold price in the next hour. The program is shown as follow: 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ea1212c7-b0ac-4c76-a69c-8b4c49c81a95" width="400" title="Real Time">
-  <img src="https://github.com/user-attachments/assets/b80bbb10-244d-4016-ac24-5220eb04a84e" width="400" title="Back Test">
+  <img src="https://github.com/user-attachments/assets/ea1212c7-b0ac-4c76-a69c-8b4c49c81a95" width="500" title="Real Time">
+  <img src="https://github.com/user-attachments/assets/b80bbb10-244d-4016-ac24-5220eb04a84e" width="510" title="Back Test">
 </p>
 
