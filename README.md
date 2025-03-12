@@ -9,3 +9,12 @@ This repository demonstrates a prediction over 1 hour ahead for the gold price. 
   <img src="https://github.com/user-attachments/assets/b80bbb10-244d-4016-ac24-5220eb04a84e" width="510" title="Back Test">
 </p>
 
+# Results of Testing the Application 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b39b3c5-febe-4a89-b175-db838b63e6ef" width="350" title="Input Image">
+  <img src="https://github.com/user-attachments/assets/9179bbfd-b8fc-4b42-bac4-bdecc1ec16be" width="350" title="Input Image">
+</p>
+
+
+
+
